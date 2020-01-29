@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/hellostealth/stealth
-  revision: 6e513484890ccd1a470afb929b4fa8eddb51a1b1
+  revision: 34501c1056a36c6c3ff72e1caca89e35a4e562c8
   branch: master
   specs:
     stealth (2.0.0)
