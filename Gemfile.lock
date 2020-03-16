@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/hellostealth/stealth
-  revision: d6d3c626d2faa951203da652f733c4a18162e1f5
+  revision: 0a4c6afe7e2a8e083cd3467a943ea8c8e0cd1638
   branch: master
   specs:
     stealth (2.0.0)
@@ -14,7 +14,7 @@ GIT
 PATH
   remote: .
   specs:
-    stealth-luis (0.9.0)
+    stealth-luis (1.0.0)
       http (~> 4)
       stealth (~> 2.0)
 
