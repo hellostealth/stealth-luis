@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.license     = 'MIT'
 
   s.add_dependency 'stealth', '>= 2.0.0.beta'
-  s.add_dependency 'http', '~> 4'
+  s.add_dependency 'http', '~> 5.1'
 
   s.add_development_dependency "rspec", "~> 3"
 
